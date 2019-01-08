@@ -109,28 +109,28 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="img01.jpg" alt="Seja Online" width="300" height="300">
+        <img src="img/img01.jpg" alt="Seja Online" width="300" height="300">
         <div class="carousel-caption">
           <h1>Seja Online</h1>
           <p><h2>Venha desenvolve seu site com a melhor equipe do mercado.</h2></p>
         </div>
       </div>
       <div class="item">
-        <img src="img02.jpg" alt="Venha fazer seu Blog" width="300" height="300">
+        <img src="img/img02.jpg" alt="Venha fazer seu Blog" width="300" height="300">
         <div class="carousel-caption">
           <h1>Venha fazer seu Blog</h1>
           <p><h2>Blogs com 10% de desconto.</h2></p>
         </div>
       </div>
       <div class="item">
-        <img src="img03.jpg" alt="Faça seu Software" width="300" height="300">
+        <img src="img/img03.jpg" alt="Faça seu Software" width="300" height="300">
         <div class="carousel-caption">
           <h1>Faça seu Software</h1>
           <p><h2>Crie seu software com a nossa equipe, e gerencie o seu negócio.</h2></p>
         </div>
       </div>
       <div class="item">
-        <img src="img04.jpg" alt="jogos com desconto de 15%" width="300" height="300">
+        <img src="img/img04.jpg" alt="jogos com desconto de 15%" width="300" height="300">
         <div class="carousel-caption">
           <h1>Jogos com desconto de 15%</h1>
           <p><h2>Entre em contato e solicite jogos educativos para a sua instituição de ensino.</h2></p>
@@ -189,21 +189,21 @@
   <div class="row text-center">
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img src="img07.png" alt="BLOG">
+        <img src="img/img07.png" alt="BLOG">
         <p><strong>BLOG</strong></p>
         <p>Cliente My Diary</p>
       </div>
     </div>
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img src="img09.png" alt="JOGOS EDUCATIVOS 2D">
+        <img src="img/img09.png" alt="JOGOS EDUCATIVOS 2D">
         <p><strong>JOGOS EDUCATIVOS 2D</strong></p>
         <p>Cliente Colégio São Paulo da Cruz</p>
       </div>
     </div>
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img src="img06.png" alt="San Francisco">
+        <img src="img/img06.png" alt="San Francisco">
         <p><strong>SITE</strong></p>
         <p>Cliente Salão de Beleza Beauty Advisor</p>
       </div>
@@ -213,21 +213,21 @@
 <div class="row text-center">
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img src="img10.png" alt="JOGO">
+        <img src="img/img10.png" alt="JOGO">
         <p><strong>JOGO</strong></p>
         <p>Cliente Instituição Criança Feliz</p>
       </div>
     </div>
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img src="img05.png" alt="SITE">
+        <img src="img/img05.png" alt="SITE">
         <p><strong>SITE</strong></p>
         <p>Cliente Joalheria Pewdry Co.</p>
       </div>
     </div>
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img src="img08.png" alt="San Francisco">
+        <img src="img/img08.png" alt="San Francisco">
         <p><strong>SOFTWARE</strong></p>
         <p>Cliente Confecções Tecidos</p>
       </div>
